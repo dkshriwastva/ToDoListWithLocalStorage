@@ -1,0 +1,21 @@
+.task{
+border: 5px solid red;
+display: flex;
+align-items: center;
+background-color: rgb(192, 241, 241);
+}
+  
+
+#box{
+    height: 100px;
+    width: 1000px;
+    background-color:  rgb(173, 216, 220) ;
+    justify-content: center;
+}
+#button{
+    
+    border-color: rgb(31, 142, 31);
+    border: 5cqb rgb(126, 216, 126);
+    height: 50px;
+    width: 60px;
+}
